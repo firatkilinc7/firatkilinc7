@@ -56,9 +56,7 @@
             }
             </style>
             <h1 style="font-size: 33px; width: 100%;">firatkilinc7</h1>
-        	<audio controls autoplay>
-			  <source src="play.mp3" type="audio/mpeg">
-			</audio>
+        	
         </div>
     </foreignObject>
 </svg>

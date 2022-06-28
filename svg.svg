@@ -36,7 +36,7 @@
                 	background-position: 164px;
                 }
 		50%{
-                	background-position: 185px;
+                	background-position: 210px;
                 }
                 60%{
                 	background-position: 0;

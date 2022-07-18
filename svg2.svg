@@ -1,0 +1,139 @@
+<svg fill="none" viewBox="40 25 200 75" width="200px" height="200px" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="200px" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" align="center" style="margin-top: 42px">
+            <style>
+            
+            .sometimes{
+                
+                font-size: 15px; 
+                margin-left: 42px; 
+                float: left;
+
+            }
+
+            .good{
+                float: left;
+                font-size: 16px;
+                margin-top: 15px;
+                margin-left: 4px;
+                color: green;
+                font-family: sans-serif;
+
+                animation: blink 4s step-start infinite;
+                --display-good: 4px;
+                --display-bad: 4px;
+                --opacity-good-100: 100%;
+                --opacity-good-90: 90%;
+                --opacity-good-80: 80%;
+                --opacity-good-70: 70%;
+                --opacity-good-60: 60%;
+                --opacity-good-50: 50%;
+                --opacity-good-40: 40%;
+                --opacity-good-30: 30%;
+                --opacity-good-20: 20%;
+                --opacity-good-10: 10%;
+                --opacity-good-0: 0%;
+                --opacity-bad-100: 0%;
+                --opacity-bad-90: 0%;
+                --opacity-bad-80: 0%;
+                --opacity-bad-70: 0%;
+                --opacity-bad-60: 0%;
+                --opacity-bad-50: 0%;
+                --opacity-bad-40: 0%;
+                --opacity-bad-30: 0%;
+                --opacity-bad-20: 0%;
+                --opacity-bad-10: 0%;
+                --opacity-bad-0: 0%;
+                display: block;
+            }
+
+            .shit{
+                
+                float: left;
+                font-size: 16px;
+                margin-top: 15px;
+                margin-left: -38px;
+                color: red;
+                font-family: sans-serif;
+
+                animation: blink 4s step-start infinite;
+                --display-good: 4px;
+                --display-bad: 4px;
+                --opacity-good-100: 0%;
+                --opacity-good-90: 0%;
+                --opacity-good-80: 0%;
+                --opacity-good-70: 0%;
+                --opacity-good-60: 0%;
+                --opacity-good-50: 0%;
+                --opacity-good-40: 0%;
+                --opacity-good-30: 0%;
+                --opacity-good-20: 0%;
+                --opacity-good-10: 0%;
+                --opacity-good-0: 0%;
+                --opacity-bad-100: 100%;
+                --opacity-bad-90: 90%;
+                --opacity-bad-80: 80%;
+                --opacity-bad-70: 70%;
+                --opacity-bad-60: 60%;
+                --opacity-bad-50: 50%;
+                --opacity-bad-40: 40%;
+                --opacity-bad-30: 30%;
+                --opacity-bad-20: 20%;
+                --opacity-bad-10: 10%;
+                --opacity-bad-0: 0%;
+            }
+
+            @keyframes blink {
+                0%{opacity: var(--opacity-good-0); margin-left: var(--display-good)}
+                2%{opacity: var(--opacity-good-10)}
+                4%{opacity: var(--opacity-good-20)}
+                6%{opacity: var(--opacity-good-30)}
+                8%{opacity: var(--opacity-good-40)}
+                10%{opacity: var(--opacity-good-50)}
+                12%{opacity: var(--opacity-good-60)}
+                14%{opacity: var(--opacity-good-70)}
+                16%{opacity: var(--opacity-good-80)}
+                18%{opacity: var(--opacity-good-90)}
+                20%{opacity: var(--opacity-good-100)}
+                22%{opacity: var(--opacity-good-90)}
+                24%{opacity: var(--opacity-good-80)}
+                26%{opacity: var(--opacity-good-70)}
+                28%{opacity: var(--opacity-good-60)}
+                30%{opacity: var(--opacity-good-50)}
+                32%{opacity: var(--opacity-good-40)}
+                34%{opacity: var(--opacity-good-30)}
+                38%{opacity: var(--opacity-good-20)}
+                40%{opacity: var(--opacity-good-10)}
+                42%{opacity: var(--opacity-good-0)}
+
+                54%{opacity: var(--opacity-bad-0); margin-left: var(--display-bad)}
+                56%{opacity: var(--opacity-bad-10)}
+                58%{opacity: var(--opacity-bad-20)}
+                60%{opacity: var(--opacity-bad-30)}
+                62%{opacity: var(--opacity-bad-40)}
+                64%{opacity: var(--opacity-bad-50)}
+                66%{opacity: var(--opacity-bad-60)}
+                69%{opacity: var(--opacity-bad-70)}
+                71%{opacity: var(--opacity-bad-80)}
+                73%{opacity: var(--opacity-bad-90)}
+                75%{opacity: var(--opacity-bad-100)}
+                77%{opacity: var(--opacity-bad-90)}
+                80%{opacity: var(--opacity-bad-80)}
+                82%{opacity: var(--opacity-bad-70)}
+                84%{opacity: var(--opacity-bad-60)}
+                86%{opacity: var(--opacity-bad-50)}
+                88%{opacity: var(--opacity-bad-40)}
+                91%{opacity: var(--opacity-bad-30)}
+                93%{opacity: var(--opacity-bad-20)}
+                95%{opacity: var(--opacity-bad-20)}
+                100%{opacity: var(--opacity-bad-0)}
+            }
+
+            </style>
+            <p class="sometimes">Sometimes Maybe</p>
+            <p class="good">Good</p> 
+            <p class="shit">Sh*t</p>
+        	
+        </div>
+    </foreignObject>
+</svg>

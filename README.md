@@ -1,4 +1,4 @@
-<img src="svg.svg"/> <img src="svg2.svg" width="400px" height="200px"/>
+<img src="svg.svg"/> <img src="svg2.svg" width="450px" height="200px"/>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firatkilinc7&label=Profile%20views&color=0e75b6&style=flat" alt="firatkilinc7" /> </p>

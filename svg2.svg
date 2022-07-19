@@ -14,7 +14,7 @@
             .good{
                 float: left;
                 font-size: 16px;
-                margin-top: 14px;
+                margin-top: 13.5px;
                 margin-left: 4px;
                 color: green;
                 font-family: sans-serif;
@@ -51,7 +51,7 @@
                 
                 float: left;
                 font-size: 16px;
-                margin-top: 14px;
+                margin-top: 13.5px;
                 margin-left: -38px;
                 color: red;
                 font-family: sans-serif;

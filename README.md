@@ -1,4 +1,4 @@
-<img src="svg.svg"/> 
+<!-- <img src="svg.svg"/> -->
 <img src="svg2.svg" width="400px" height="200px" />
   
 
